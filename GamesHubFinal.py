@@ -281,7 +281,7 @@ def math_quiz():
 def main():
     while True:
         clear_screen()
-        print("=== Welcome to Games Hub By : Ayah, Yara And Yasmeen ===")
+        print("=== Welcome to Games Hub")
         print("1. Guess the Number")
         print("2. Rock, Paper, Scissors")
         print("3. Hangman")
